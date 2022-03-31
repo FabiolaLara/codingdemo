@@ -1,10 +1,14 @@
 # Kickstarting with Excel
 
 ## Overview of Project
+> In this project, we have a datasheet(worksheet) which contains information about the fundraising recolected from diferents countries 
+in order to invest in diferent campaigns.
+We will analyze the relationship between the amount goal and the launched date, the number of campaigns in different years and months, so we could realize the number of campaigns who were success, failed or canceled, 
 
 ### Purpose
 
 ## Analysis and Challenges
+
 
 ### Analysis of Outcomes Based on Launch Date
 
